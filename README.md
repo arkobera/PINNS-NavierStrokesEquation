@@ -189,7 +189,7 @@ L = L_{data} + \lambda L_{PDE}
 * Vishal Singh
 * Raghav Kankane
 * Ashutosh Singh
-* 
+  
 (IIIT Nagpur)
 
 ---
